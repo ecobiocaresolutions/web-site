@@ -9,21 +9,21 @@ const certifications = [
     title: "ISO 9001:2015 Certified",
     description: "Quality Management System",
     certId: "",
-    link: "/cert-iso-9001.pdf"
+    link: "/ISO 90012015 Certified.pdf"
   },
   {
     icon: <FiAward />,
     title: "NABL (ISO/IEC 17025:2017)",
     description: "Accredited for technical competence in testing.",
     certId: "Certificate No. TC-16883",
-    link: "/scope-nabl.pdf"
+    link: "/Certificate No. TC-16883.pdf"
   },
   {
     icon: <FiShield />,
     title: "CPCB Approved",
     description: "Recognized by the Central Pollution Control Board.",
     certId: "",
-    link: "#"
+    link: "/CPCB Approved.pdf"
   }
 ];
 
