@@ -41,8 +41,8 @@ const ServiceDetail: React.FC = () => {
               <>
                 <h3 className="text-xl font-semibold mt-4">What we test</h3>
                 <ul className="list-disc pl-6 text-gray-200">
-                  <li>pH, Turbidity, Hardness</li>
-                  <li>Dissolved Oxygen, TDS/Conductivity</li>
+                  <li>Chemical Parameters</li>
+                  <li>Physical Parameters</li>
                   <li>Microbiological tests (Coliforms, E. coli)</li>
                   <li>Heavy metals & trace elements (on request)</li>
                 </ul>
