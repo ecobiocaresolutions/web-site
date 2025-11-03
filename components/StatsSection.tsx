@@ -26,10 +26,10 @@ const AnimatedCounter: React.FC<{ value: number, suffix?: string }> = ({ value, 
 };
 
 const stats = [
-    { value: 1000, suffix: "+", label: "Clients" },
-    { value: 300, suffix: "+", label: "Professional Staff" },
-    { value: 7, suffix: "+", label: "Years of Experience" },
-    { value: 640, suffix: "+", label: "Lab Technicians" },
+    { value: 100, suffix: "+", label: "Clients" },
+    { value: 30, suffix: "+", label: "Professional Staff" },
+    { value: 25, suffix: "+", label: "Years of Experience" },
+    { value: 20, suffix: "+", label: "Lab Technicians" },
 ];
 
 const StatsSection: React.FC = () => {
